@@ -8,17 +8,13 @@ body {
     font-size: 30px;
   }
   p {
-    background-color: rgb(212, 0, 255);
+    background-color: rgb(223, 110, 208);
     font-size: 20px;
   }
   table, th, td {
     border: 1px solid black;
   }
-  p.dotted {
-      outline-style: dotted;
-      outline-width: 4px;
-      outline-color:blueviolet;
-    }
+  
     table {
         width: 100%;
       }
@@ -29,6 +25,4 @@ body {
       td {
         text-align: center;
       }
-      img{
-          size: 10px;
-      }
+      
